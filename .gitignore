@@ -1,3 +1,6 @@
+# Windows .bat files
+*.bat
+
 # Prerequisites
 *.d
 
